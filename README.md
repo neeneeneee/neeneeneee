@@ -2,6 +2,6 @@
 <img
   src="https://render.gitanimals.org/farms/neeneeneee"
   width="600"
-  height=250"
+  height="300"
 />
 </a>
